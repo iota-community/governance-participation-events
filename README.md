@@ -38,17 +38,17 @@ If the Participation plugin has been successfully enabled, you should see a new 
 ![](./resources/hornet_1_light.png)
 
 Click on `Participation` to enter the plugin settings.
-![](./resources/hornet_2_light.png)
+![](/resources/hornet_2_light.png)
 
 In the top right corner, click `Add Event`.<br>
 Now you can paste the `raw`-link to the event configuration file.
-![](./resources/hornet_3_light.png)
+![](/resources/hornet_3_light.png)
 
 After clicking `OK`, the new event is shown (if everything was entered correctly).
-![](./resources/hornet_4_light.png)
+![](/resources/hornet_4_light.png)
 
 Your node is now ready to track the specific participation event. You can view the current status of the event by clicking on `More details`.
-![](./resources/hornet_5_light.png)
+![](/resources/hornet_5_light.png)
 
 
 ## Previous Events
