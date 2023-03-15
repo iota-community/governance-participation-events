@@ -12,9 +12,9 @@ ID: `0x8f757e3d09323ebf0629a8f2e4ab4dc8b9d2c628b97af00a82bd97a936335302`
 
 ### [SGP - 0002] Shimmer Community Grant Committee Grant Reviewer selection
 
-Link: 
+Link: https://raw.githubusercontent.com/iota-community/Shimmer-governance-participation-events/master/events/vote/%5BSGP%20-%200002%5D%20Shimmer%20Community%20Grant%20Committee%20Grant%20Reviewer%20selection.json
 
-ID: 
+ID: `0x199a401f5c26330b521f412c4f657517a7d1d075c0334f8d3a7670c1510e1f53`
 
 ### [SGP - 0003] Shimmer Growth Committee as part of the Tangle Ecosystem Association
 
