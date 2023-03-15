@@ -32,12 +32,12 @@ ID: `0x1676eef80c31f2beaa561d349293c4386087c477eb3e4d818ae9fe119723f657`
 
 ### Add event via node dashboard
 
-After starting your node, you can open the node dashboard and navigate to `Settings` -> `Plugins`.<br>
+After starting your node, you can open the node dashboard and navigate to `Plugins`.<br>
 If the Participation plugin has been successfully enabled, you should see a new option called `Participation`.
 
 ![](./resources/hornet_1_light.png)
 
-Click on the three dots next to `Participation` to enter the plugin settings.
+Click on `Participation` to enter the plugin settings.
 ![](./resources/hornet_2_light.png)
 
 In the top right corner, click `Add Event`.<br>
