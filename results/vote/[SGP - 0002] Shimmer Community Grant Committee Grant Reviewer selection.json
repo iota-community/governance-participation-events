@@ -1,1 +1,197 @@
-input
+{
+  "milestoneIndex": 3176300,
+  "status": "ended",
+  "questions": [
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 130700995695,
+          "accumulated": 15375945551078376
+        },
+        {
+          "value": 0,
+          "current": 8919523939,
+          "accumulated": 1032168530002346
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 117958305960,
+          "accumulated": 13913136033786008
+        },
+        {
+          "value": 0,
+          "current": 21662213674,
+          "accumulated": 2494978047294714
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 43891059185,
+          "accumulated": 4969738889745140
+        },
+        {
+          "value": 0,
+          "current": 95729460449,
+          "accumulated": 11438375191335584
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 86048843589,
+          "accumulated": 10357355610584492
+        },
+        {
+          "value": 0,
+          "current": 53571676045,
+          "accumulated": 6050758470496232
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 94861136768,
+          "accumulated": 11450158922528068
+        },
+        {
+          "value": 0,
+          "current": 44759382866,
+          "accumulated": 4957955158552655
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 62148692254,
+          "accumulated": 7438066114248679
+        },
+        {
+          "value": 0,
+          "current": 77471827380,
+          "accumulated": 8970047966832044
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 75646801337,
+          "accumulated": 9117283841071882
+        },
+        {
+          "value": 0,
+          "current": 63973718297,
+          "accumulated": 7290830240008841
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 10138516240,
+          "accumulated": 1212974718740549
+        },
+        {
+          "value": 0,
+          "current": 129482003394,
+          "accumulated": 15195139362340174
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 10123014935,
+          "accumulated": 1220376779808322
+        },
+        {
+          "value": 0,
+          "current": 129497504699,
+          "accumulated": 15187737301272400
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    },
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 73306228340,
+          "accumulated": 8870413625967111
+        },
+        {
+          "value": 0,
+          "current": 66314291294,
+          "accumulated": 7537700455113612
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    }
+  ],
+  "checksum": "0xa66a5209dc7c60af6b10ea1310df03a928c97ffd66e74e86fbf8510766ed6ad4"
+}
