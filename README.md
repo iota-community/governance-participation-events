@@ -1,12 +1,15 @@
-# Shimmer Governance Participation Events
+# Governance Participation Events
 
-This repository contains the configurations for participation events of official governance votes in the Shimmer network.
+This repository contains the configurations for participation events of official governance votes in the Shimmer and IOTA networks.
+Shimmer Governance Events are named [SGP], and IOTA Governance Events are named [IGP].
 
 ## Current Event `raw`-links
 
-There are currently no open Events in Governance
+There are currently no open Events in Governance.
 
 ## How to add a ballot or staking event as a node operator?
+
+These steps are identical for Shimmer and IOTA Hornet Nodes.
 
 ### Add event via node dashboard
 
