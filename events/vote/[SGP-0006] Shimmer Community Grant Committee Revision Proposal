@@ -1,0 +1,28 @@
+{
+    "name": "[SGP - 0006] - Shimmer Community Grant Committee Revision Proposal",
+    "milestoneIndexCommence": 6342981,
+    "milestoneIndexStart": 6463941,
+    "milestoneIndexEnd": 6584901,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support the revision of the Shimmer Community Treasury Grant Committee Framework according to the changes proposed in this Governance proposal?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "I approve the proposed framework revision"
+                    },
+                    {
+                        "value": 2,
+                        "text": "No",
+                        "additionalInfo": "I don't want to implement the proposed changes."
+                    }
+                ],
+                "additionalInfo": ""
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/sgp-0006-igp-0001-tangle-community-treasury-grant-committee-framework-revision/1675]"
+}
