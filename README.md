@@ -7,19 +7,11 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 ### IOTA Network:
 
-### [IGP - 0001] - Shimmer Community Grant Committee Revision Proposal
 
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200001%5D%20-%20Shimmer%20Community%20Grant%20Committee%20Revision%20Proposal
-
-ID: `0x2049f52d3253ee27aa0e870cd5cd62e82676420d23b9c03c42c6d1861d01e4f3`
 
 ### Shimmer Network:
 
-### [SGP - 0006] - Shimmer Community Grant Committee Revision Proposal
 
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200006%5D%20-%20Shimmer%20Community%20Grant%20Committee%20Revision%20Proposal
-
-ID: `0x741fc1a0ebd0e2db12b9eea5e5cc47d1eaea546784fc80ed1682dff449a2304f`
 
 ## How to add a ballot or staking event as a node operator?
 
@@ -76,3 +68,15 @@ ID: `0x66fd0a5be96d78918a55bcabc08a255d8ba63977b641c2ff1aef1cdd79ddfef4`
 Link: https://raw.githubusercontent.com/iota-community/Shimmer-governance-participation-events/SGP-0001---SGP-0005/events/vote/%5BSGP%20-%200005%5D%20-%20Shimmer%20Community%20Treasury%20Grant%20Committee.json
 
 ID: `0x1676eef80c31f2beaa561d349293c4386087c477eb3e4d818ae9fe119723f657`
+
+### [SGP - 0006] - Shimmer Community Grant Committee Revision Proposal
+
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200006%5D%20-%20Shimmer%20Community%20Grant%20Committee%20Revision%20Proposal
+
+ID: `0x741fc1a0ebd0e2db12b9eea5e5cc47d1eaea546784fc80ed1682dff449a2304f`
+
+### [IGP - 0001] - Shimmer Community Grant Committee Revision Proposal
+
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200001%5D%20-%20Shimmer%20Community%20Grant%20Committee%20Revision%20Proposal
+
+ID: `0x2049f52d3253ee27aa0e870cd5cd62e82676420d23b9c03c42c6d1861d01e4f3`
