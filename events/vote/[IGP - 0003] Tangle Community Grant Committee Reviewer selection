@@ -1,0 +1,93 @@
+{
+    "name": "[IGP - 0003] Tangle Community Grant Committee Reviewer selection",
+    "milestoneIndexCommence": 10246965,
+    "milestoneIndexStart": 10367927,
+    "milestoneIndexEnd": 10488887,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Should Candidate \"Linus Naumann\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/linus-naumann-grant-reviewer-application-2024/1705"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Nicole O'brien\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/nicole-obrien-grant-review-application/1698"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Finanzgoblin - Richard Mediavilla\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here:  https://govern.iota.org/t/finanzgoblin-grant-reviewer-application-2024/1702"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Yi-Wei Lin (Ian)\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "[Read the application letter of the candidate here: https://govern.iota.org/t/lin-yi-wei-ian-grant-reviewer-application-2024/1703/2"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Null / Rafael Brochado\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/null-grant-reviewer-application-2024/1709"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"0xMarcus\"  become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/0xmarcus-grant-reviewer-application/1463"
+                    }
+                ]
+            },
+            {
+                    "text": "Should Candidate \"Wiwi\" become a grant reviewer in the Tangle Community Grant committee?",
+                    "answers": 
+                [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/wiwi-grant-reviewer-application-2024/1706"
+                    }
+                ]
+            },
+            {    
+                "text": "\"Shelley Mae Villarin\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                            "value": 1,
+                            "text": "Yes",
+                            "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/shelley-mae-villarin-grant-review-application/1701"
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: (https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term/1713)"
+}
