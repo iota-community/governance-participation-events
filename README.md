@@ -80,3 +80,39 @@ ID: `0x741fc1a0ebd0e2db12b9eea5e5cc47d1eaea546784fc80ed1682dff449a2304f`
 Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200001%5D%20-%20Shimmer%20Community%20Grant%20Committee%20Revision%20Proposal
 
 ID: `0x2049f52d3253ee27aa0e870cd5cd62e82676420d23b9c03c42c6d1861d01e4f3`
+
+### [IGP - 0002] Tangle Community Treasury Term 2024 to 2025
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BIGP%20-%200002%5D%20Tangle%20Community%20Treasury%20Term%202024%20to%202025
+
+ID: `0x1da266afa2907a4a56eab17e1d908da3c43fea11cc283aeb9ff4cc366ec7a27b`
+
+### [IGP - 0003] Tangle Community Grant Committee Reviewer selection
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BIGP%20-%200003%5D%20Tangle%20Community%20Grant%20Committee%20Reviewer%20selection
+
+ID: `0x66840bff497115faf975f8c001d9741167a16d329bf091dd299a25db9bb71600`
+
+### [IGP - 0004] Tangle Community Grant Committee - Lead selection
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BIGP%20-%200004%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
+
+ID: `0x47936b4bf067bfa47070066661638ef06574a82e69dfe26b01ea8fb8b9c40839`
+
+### [SGP - 0007] Tangle Community Treasury Term 2024 to 2025
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BSGP%20-%200007%5D%20Tangle%20Community%20Treasury%20Term%202024%20to%202025
+
+ID: `0x623f50bcb1a1f90e60717c83e3fa07bd3053977f662b09595db11bbe8c1b1ec9`
+
+### [SGP - 0008] Tangle Community Grant Committee Reviewer selection
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BSGP%20-%200008%5D%20Tangle%20Community%20Grant%20Committee%20Reviewer%20selection
+
+ID: `0x5725c4b1282084180c384bbcfc4eb2348c8db0ca6605665e0c95bf55306de118`
+
+### [SGP - 0009] Tangle Community Grant Committee - Lead selection
+
+Link: https://raw.githubusercontent.com/Deep-Sea-888/governance-participation-events-New/master/events/vote/%5BSGP%20-%200009%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection
+
+ID: `0xe0713d464406a8546700dea30d4e9e1eec41ee57e1acb07a9233abc4e692d634`
