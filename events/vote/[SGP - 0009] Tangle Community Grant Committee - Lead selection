@@ -1,0 +1,22 @@
+{
+    "name": "[SGP - 0009] Tangle Community Grant Committee - Lead selection",
+    "milestoneIndexCommence": 8822507,
+    "milestoneIndexStart": 8943467,
+    "milestoneIndexEnd": 9064427,
+    "payload": {
+      "type": 0,
+      "questions": [
+        {
+          "text": "Should Candidate \"JD \"DeepSea\" Sutton\" become the Program Lead of the Tangle Community Treasury?",
+          "answers": [
+            {
+                "value": 1,
+                "text": "Yes",
+                "additionalInfo": "Read the application letter of the candidate here: https://govern.iota.org/t/jd-sutton-deep-sea-program-lead-application/1699"
+            }
+          ]
+        }
+      ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0004-sgp-0009-tangle-community-grant-committee-lead-selection](https://govern.iota.org/t/igp-0004-sgp-0009-tangle-community-grant-committee-lead-selection/1716)."
+}
