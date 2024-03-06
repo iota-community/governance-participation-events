@@ -1,0 +1,27 @@
+{
+    "name": "[IGP-0002] - Tangle Community Treasury Term 2024 to 2025",
+    "milestoneIndexCommence": 10246965,
+    "milestoneIndexStart": 10367927,
+    "milestoneIndexEnd": 10488887,
+    "payload": {
+      "type": 0,
+      "questions": [
+        {
+          "text": "Do you vote to continue the Tangle Community Treasury with a revised framework for the 2024 to 2025 term?",
+          "answers": [
+            {
+              "value": 1,
+              "text": "Yes",
+              "additionalInfo": "Yes, I approve the TCT for the 2024 to 2025 term"
+            },
+            {
+              "value": 2,
+              "text": "No",
+              "additionalInfo": "No, I do not approve the TCT for the 2024 to 2025 term"
+            }
+          ],
+          "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term](https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term/1713)"
+        }
+      ]
+    }
+}
