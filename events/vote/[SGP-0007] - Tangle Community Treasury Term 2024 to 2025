@@ -1,0 +1,28 @@
+{
+    "name": "[SGP-0007] - Tangle Community Treasury Term 2024 to 2025",
+    "milestoneIndexCommence": 8822507,
+    "milestoneIndexStart": 8943467,
+    "milestoneIndexEnd": 9064427,
+    "payload": {
+      "type": 0,
+      "questions": [
+        {
+          "text": "Do you vote to continue the Tangle Community Treasury with a revised framework for the 2024 to 2025 term?",
+          "answers": [
+            {
+              "value": 1,
+              "text": "Yes",
+              "additionalInfo": "Yes, I approve the TCT for the 2024 to 2025 term"
+            },
+            {
+              "value": 2,
+              "text": "No",
+              "additionalInfo": "No, I do not approve the TCT for the 2024 to 2025 term"
+            }
+          ],
+          "additionalInfo": "The Shimmer voters agree to allocate 22,216,844 million SMR Tokens through a donation to the TCT Grant Committee for grant funding. Also, the voters agree to donate an additional 3,173,834 SMR to the TCT Grant Committee to build a Funding integration. The Shimmer voters accept the operation specification in the following proposal [IGP-0002-SGP-0007-Tangle-Community-Treasury-for-2024-to-2025-term](https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term/1713a"
+        }
+      ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term](https://govern.iota.org/t/igp-0002-sgp-0007-tangle-community-treasury-for-2024-to-2025-term/1713)"
+}
