@@ -9,7 +9,7 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200002%5D%20Tangle%20Community%20Treasury%20Term%202024%20to%202025.json
 
-ID: `0x961db5b38d1858d8b2eb8ea4b751edb206a01a87d416af0049c61922d82ec7be`
+ID: `0x0a2e8afc01146f6283233e7d69fbd1a7455078f239fd33a22c05bf2c529ed633`
 
 ### [IGP - 0003] Tangle Community Grant Committee Reviewer selection
 
