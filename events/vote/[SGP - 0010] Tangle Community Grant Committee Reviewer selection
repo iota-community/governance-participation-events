@@ -1,0 +1,112 @@
+{
+    "name": "[SGP - 0010] Tangle Community Grant Committee Reviewer selection",
+    "milestoneIndexCommence": 10420382,
+    "milestoneIndexStart": 10541342,
+    "milestoneIndexEnd": 10662302,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Should Candidate \"Candidate 1\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here:"
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 2\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 3\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 4\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "[Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 5\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 6\"  become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 7\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 8\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 9\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 10\" become a grant reviewer in the Tangle Community Grant committee?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                 }
+          ]
+        }
+      ]
+    },
+    "additionalInfo": "Read the full proposal here: []()"
+}
