@@ -1,0 +1,32 @@
+{
+    "name": "[SGP - 0011] Tangle Community Grant Committee - Lead selection",
+    "milestoneIndexCommence": 10420382,
+    "milestoneIndexStart": 10541342,
+    "milestoneIndexEnd": 10662302,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Should Candidate \"Candidate 1\" become the Program Lead of the Tangle Community Treasury?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            },
+            {
+                "text": "Should Candidate \"Candidate 2\" become the Program Lead of the Tangle Community Treasury?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: "
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0003-sgp-0008-tangle-community-grant-committee-grant-reviewer-selection](https://govern.iota.org/t/igp-0003-sgp-0008-tangle-community-grant-committee-grant-reviewer-selection/1715)"
+}
