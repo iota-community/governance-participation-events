@@ -1,0 +1,21 @@
+[
+  {
+    "answers": [
+      {
+        "value": 1,
+        "current": 144175673377,
+        "accumulated": 17222953076567388
+      },
+      {
+        "value": 0,
+        "current": 17293787962,
+        "accumulated": 1229890487133415
+      },
+      {
+        "value": 255,
+        "current": 0,
+        "accumulated": 0
+      }
+    ]
+  }
+]
