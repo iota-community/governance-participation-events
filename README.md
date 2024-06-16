@@ -8,6 +8,15 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 ## Current Shimmer Event `raw`-links
 
+### [SGP - 0010] Tangle Community Grant Committee Grant Reviewer selection
+
+Link:
+ID: `0xe718e7f1d21c078109ef416c48b2b45f79e6d98d4ff2eb52334575bd8a7bf17e`
+
+### [SGP - 0011] Tangle Community Grant Committee - Lead selection
+
+Link:
+ID: `0x632155305e889f29bbdf9da22c28794f99bab7a01a2a1188dde21cdaa8042171`
 
 ## How to add a ballot or staking event as a node operator?
 
