@@ -1,0 +1,22 @@
+{
+    "name": "[SGP - 0011] Tangle Community Grant Committee - Lead selection",
+    "milestoneIndexCommence": 10431571,
+    "milestoneIndexStart": 10552531,
+    "milestoneIndexEnd": 10673491,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Should Candidate \"Linus Nauman\" become the Program Lead of the Tangle Community Treasury?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes",
+                        "additionalInfo": "Read the application letter of the candidate here: [https://govern.iota.org/t/linus-naumann-program-lead-application-round-2/1734/1](https://govern.iota.org/t/linus-naumann-program-lead-application-round-2/1734/1)"
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/sgp-0011-tangle-community-grant-committee-lead-selection/1748/1](https://govern.iota.org/t/sgp-0011-tangle-community-grant-committee-lead-selection/1748/1)"
+}
