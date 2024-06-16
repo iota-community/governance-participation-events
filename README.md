@@ -3,19 +3,19 @@
 This repository contains the configurations for participation events of official governance votes in the Shimmer and IOTA networks.
 Shimmer Governance Events are named [SGP], and IOTA Governance Events are named [IGP].
 
-## Current IOTA Event `raw`-links
-
 
 ## Current Shimmer Event `raw`-links
 
 ### [SGP - 0010] Tangle Community Grant Committee Grant Reviewer selection
 
-Link:
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200010%5D%20Tangle%20Community%20Grant%20Committee%20Reviewer%20selection.json
+
 ID: `0xe718e7f1d21c078109ef416c48b2b45f79e6d98d4ff2eb52334575bd8a7bf17e`
 
 ### [SGP - 0011] Tangle Community Grant Committee - Lead selection
 
-Link:
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200011%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
+
 ID: `0x632155305e889f29bbdf9da22c28794f99bab7a01a2a1188dde21cdaa8042171`
 
 ## How to add a ballot or staking event as a node operator?
