@@ -4,19 +4,11 @@ This repository contains the configurations for participation events of official
 Shimmer Governance Events are named [SGP], and IOTA Governance Events are named [IGP].
 
 
-## Current Shimmer Event `raw`-links
+## Current IOTA Event `raw`-links
 
-### [SGP - 0010] Tangle Community Grant Committee Grant Reviewer selection
-
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200010%5D%20Tangle%20Community%20Grant%20Committee%20Reviewer%20selection.json
-
-ID: `0xe718e7f1d21c078109ef416c48b2b45f79e6d98d4ff2eb52334575bd8a7bf17e`
-
-### [SGP - 0011] Tangle Community Grant Committee - Lead selection
-
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200011%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
-
-ID: `0x632155305e889f29bbdf9da22c28794f99bab7a01a2a1188dde21cdaa8042171`
+### [IGP - 0005] - A Proposal for Supercharging the Expansion of IOTA EVM Growth
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200005%5D%20-%20A%20Proposal%20for%20Supercharging%20the%20Expansion%20of%20%20IOTA%20EVM%20Growth.json
+ID: `0x3d2d516c4b0af81c35659666e98a83f59247dbf1698fae65ece0c5cd562a7533`
 
 ## How to add a ballot or staking event as a node operator?
 
@@ -97,6 +89,18 @@ ID: `0xf537ce0f5f18726057342f9c66ce69da242f827a7b712e466a5ba56acf7b6b55`
 Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200009%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
 
 ID: `0x32dd81b45c36c67f5d1d9b218d023aa3a658f17c485caeb8300e6f5b9136b91c`
+
+### [SGP - 0010] Tangle Community Grant Committee Grant Reviewer selection
+
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200010%5D%20Tangle%20Community%20Grant%20Committee%20Reviewer%20selection.json
+
+ID: `0xe718e7f1d21c078109ef416c48b2b45f79e6d98d4ff2eb52334575bd8a7bf17e`
+
+### [SGP - 0011] Tangle Community Grant Committee - Lead selection
+
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BSGP%20-%200011%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
+
+ID: `0x632155305e889f29bbdf9da22c28794f99bab7a01a2a1188dde21cdaa8042171`
 
 ### [IGP - 0001] - Shimmer Community Grant Committee Revision Proposal
 
