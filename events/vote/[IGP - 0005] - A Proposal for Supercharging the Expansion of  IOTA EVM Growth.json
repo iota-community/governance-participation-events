@@ -1,0 +1,27 @@
+{
+    "name": "[IGP - 0005] - A Proposal for Supercharging the Expansion of IOTA EVM Growth",
+    "milestoneIndexCommence": 12156879,
+    "milestoneIndexStart": 12277839,
+    "milestoneIndexEnd": 12398799,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support the Proposal [IGP - 0005] - A Proposal for Supercharging the Expansion of IOTA EVM Growth?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes - i support this proposal",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No - i do not support this proposal",
+                        "additionalInfo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0005-a-proposal-for-supercharging-the-expansion-of-iota-evm-growth/1756/1](https://govern.iota.org/t/igp-0005-a-proposal-for-supercharging-the-expansion-of-iota-evm-growth/1756/1)"
+}
