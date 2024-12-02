@@ -6,10 +6,9 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 ## Current IOTA Event `raw`-links
 
-### [IGP - 0005] - A Proposal for Supercharging the Expansion of IOTA EVM Growth
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200005%5D%20-%20A%20Proposal%20for%20Supercharging%20the%20Expansion%20of%20%20IOTA%20EVM%20Growth.json
+### [IGP - 0006] IOTA Rebased Governance Proposal
 
-ID: `0x3d2d516c4b0af81c35659666e98a83f59247dbf1698fae65ece0c5cd562a7533`
+
 
 ## How to add a ballot or staking event as a node operator?
 
@@ -126,3 +125,8 @@ ID: `0x91ca895ef442d3266537fa5e73736bc774bea2571a85fbf4451d44c236311a5c`
 Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200004%5D%20Tangle%20Community%20Grant%20Committee%20-%20Lead%20selection.json
 
 ID: `0xcd46807cf026c9eab7245bb9d11f51ae4c60fde2f1bed830520beb14adba412a`
+
+### [IGP - 0005] - A Proposal for Supercharging the Expansion of IOTA EVM Growth
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/master/events/vote/%5BIGP%20-%200005%5D%20-%20A%20Proposal%20for%20Supercharging%20the%20Expansion%20of%20%20IOTA%20EVM%20Growth.json
+
+ID: `0x3d2d516c4b0af81c35659666e98a83f59247dbf1698fae65ece0c5cd562a7533`

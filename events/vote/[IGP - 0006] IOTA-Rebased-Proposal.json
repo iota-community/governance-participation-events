@@ -1,0 +1,27 @@
+{
+    "name": "[IGP - 0006] IOTA Rebased Governance Proposal",
+    "milestoneIndexCommence": 14476502,
+    "milestoneIndexStart": 14597462,
+    "milestoneIndexEnd": 14718422,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support to upgrade the IOTA Mainnet to the proposed IOTA Rebased Protocol?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes, I support the upgrade to IOTA Rebased",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No, I don't support the upgrade to IOTA Rebased",
+                        "additionalInfo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/iota-rebased-governance-proposal/1768](https://govern.iota.org/t/iota-rebased-governance-proposal/1768)"
+}
