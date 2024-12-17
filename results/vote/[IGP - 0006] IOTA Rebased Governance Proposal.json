@@ -1,0 +1,26 @@
+[
+  {
+    "answers": [
+      {
+        "value": 1,
+        "current": 269872084868,
+        "accumulated": 31647575919696580
+      },
+      {
+        "value": 2,
+        "current": 4244546210,
+        "accumulated": 474777288656110
+      },
+      {
+        "value": 0,
+        "current": 426324954,
+        "accumulated": 48806799459141
+      },
+      {
+        "value": 255,
+        "current": 0,
+        "accumulated": 0
+      }
+    ]
+  }
+]
