@@ -1,0 +1,197 @@
+{
+    "milestoneIndex": 10673491,
+    "status": "ended",
+    "questions": [
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 132904858909,
+                    "accumulated": 15649778088780404
+                },
+                {
+                    "value": 0,
+                    "current": 3283766211,
+                    "accumulated": 421093927658952
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 127774063766,
+                    "accumulated": 15142936265997200
+                },
+                {
+                    "value": 0,
+                    "current": 8414561354,
+                    "accumulated": 927935750442158
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 67478500123,
+                    "accumulated": 8135906832500587
+                },
+                {
+                    "value": 0,
+                    "current": 68710124997,
+                    "accumulated": 7934965183938770
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 44815944173,
+                    "accumulated": 5366502136780932
+                },
+                {
+                    "value": 0,
+                    "current": 91372680947,
+                    "accumulated": 10704369879658424
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 67375011970,
+                    "accumulated": 8089678155853230
+                },
+                {
+                    "value": 0,
+                    "current": 68813613150,
+                    "accumulated": 7981193860586127
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 74788304401,
+                    "accumulated": 8676380419835313
+                },
+                {
+                    "value": 0,
+                    "current": 61400320719,
+                    "accumulated": 7394491596604044
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 18721370523,
+                    "accumulated": 2230873835404030
+                },
+                {
+                    "value": 0,
+                    "current": 117467254597,
+                    "accumulated": 13839998181035328
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 18824112057,
+                    "accumulated": 2226833145363432
+                },
+                {
+                    "value": 0,
+                    "current": 117364513063,
+                    "accumulated": 13844038871075924
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 33008584855,
+                    "accumulated": 3906520817854060
+                },
+                {
+                    "value": 0,
+                    "current": 103180040265,
+                    "accumulated": 12164351198585296
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        },
+        {
+            "answers": [
+                {
+                    "value": 1,
+                    "current": 68162485293,
+                    "accumulated": 7927152094437843
+                },
+                {
+                    "value": 0,
+                    "current": 68026139827,
+                    "accumulated": 8143719922001514
+                },
+                {
+                    "value": 255,
+                    "current": 0,
+                    "accumulated": 0
+                }
+            ]
+        }
+    ],
+    "checksum": "0xbbecce078de9682793e20b6bad04013037016bdfb4d46b8dea42a221e36756ee"
+}
