@@ -1,26 +1,31 @@
-[
-  {
-    "answers": [
-      {
-        "value": 1,
-        "current": 269872084868,
-        "accumulated": 31647575919696580
-      },
-      {
-        "value": 2,
-        "current": 4244546210,
-        "accumulated": 474777288656110
-      },
-      {
-        "value": 0,
-        "current": 426324954,
-        "accumulated": 48806799459141
-      },
-      {
-        "value": 255,
-        "current": 0,
-        "accumulated": 0
-      }
-    ]
-  }
-]
+{
+  "milestoneIndex": 14718422,
+  "status": "ended",
+  "questions": [
+    {
+      "answers": [
+        {
+          "value": 1,
+          "current": 269872084868,
+          "accumulated": 31647575919696580
+        },
+        {
+          "value": 2,
+          "current": 4244546210,
+          "accumulated": 474777288656110
+        },
+        {
+          "value": 0,
+          "current": 426324954,
+          "accumulated": 48806799459141
+        },
+        {
+          "value": 255,
+          "current": 0,
+          "accumulated": 0
+        }
+      ]
+    }
+  ],
+  "checksum": "0x2792799bc62a0ff56624e0fabde28db0301b872b53ce4e153d32cd619a939e16"
+}
