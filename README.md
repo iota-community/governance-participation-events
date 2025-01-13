@@ -10,7 +10,7 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/refs/heads/master/events/vote/%5BIGP%20-%200007%5D%20-%20IOTA%20Growth%20Initiative.json
 
-ID:
+ID: `0x2d943ede8f90d91188098be870cc45ca6644ea99d7879b8360196e0ab8414fea`
 
 ## How to add a ballot or staking event as a node operator?
 
