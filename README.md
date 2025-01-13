@@ -8,7 +8,7 @@ Shimmer Governance Events are named [SGP], and IOTA Governance Events are named 
 
 ### [IGP - 0007] - IOTA Growth Initiative
 
-Link:
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/refs/heads/master/events/vote/%5BIGP%20-%200007%5D%20-%20IOTA%20Growth%20Initiative.json
 
 ID:
 
