@@ -1,0 +1,27 @@
+{
+    "name": "[IGP - 0007] - IOTA Growth Initiative",
+    "milestoneIndexCommence": 15172306,
+    "milestoneIndexStart": 15293266,
+    "milestoneIndexEnd": 15414226,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support the Proposal [IGP - 0007] - IOTA Growth Initiative?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes - i support this proposal",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No - i do not support this proposal",
+                        "additionalInfo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/igp-0007-iota-growth-initiative-phase-2-poll/1782/1](https://govern.iota.org/t/igp-0007-iota-growth-initiative-phase-2-poll/1782/1)"
+}
