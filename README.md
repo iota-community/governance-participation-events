@@ -4,13 +4,8 @@ This repository contains the configurations for participation events of official
 Shimmer Governance Events are named [SGP], and IOTA Governance Events are named [IGP].
 
 
-## Current IOTA Event `raw`-links
+## Current Event `raw`-links
 
-### [IGP - 0007] - IOTA Growth Initiative
-
-Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/refs/heads/master/events/vote/%5BIGP%20-%200007%5D%20-%20IOTA%20Growth%20Initiative.json
-
-ID: `0x2d943ede8f90d91188098be870cc45ca6644ea99d7879b8360196e0ab8414fea`
 
 ## How to add a ballot or staking event as a node operator?
 
@@ -138,3 +133,9 @@ ID: `0x3d2d516c4b0af81c35659666e98a83f59247dbf1698fae65ece0c5cd562a7533`
 Link: https://github.com/iota-community/governance-participation-events/raw/refs/heads/master/events/vote/%5BIGP%20-%200006%5D%20IOTA-Rebased-Proposal.json
 
 ID: `0xa6ce50bc0e83952b2f21fc373fe4d7030a5ea2d3b97ff48788d709bf4210261a`
+
+### [IGP - 0007] - IOTA Growth Initiative
+
+Link: https://raw.githubusercontent.com/iota-community/governance-participation-events/refs/heads/master/events/vote/%5BIGP%20-%200007%5D%20-%20IOTA%20Growth%20Initiative.json
+
+ID: `0x2d943ede8f90d91188098be870cc45ca6644ea99d7879b8360196e0ab8414fea`
