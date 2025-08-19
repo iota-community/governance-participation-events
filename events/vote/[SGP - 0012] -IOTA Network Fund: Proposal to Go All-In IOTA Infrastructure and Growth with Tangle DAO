@@ -1,8 +1,8 @@
 {
-    "name": "[SGP - 0012] - - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO",
-    "milestoneIndexCommence": 17519632,
-    "milestoneIndexStart": 17640592,
-    "milestoneIndexEnd": 17761552,
+    "name": "[SGP - 0012] - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO",
+    "milestoneIndexCommence": 17519037,
+    "milestoneIndexStart": 17639997,
+    "milestoneIndexEnd": 17760957,
     "payload": {
         "type": 0,
         "questions": [
