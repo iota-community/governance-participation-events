@@ -1,0 +1,27 @@
+{
+    "name": "[SGP - 0012] - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO",
+    "milestoneIndexCommence": 17519037,
+    "milestoneIndexStart": 17639997,
+    "milestoneIndexEnd": 17760957,
+    "payload": {
+        "type": 0,
+        "questions": [
+            {
+                "text": "Do you support the Proposal [SGP - 0012] - - IOTA Network Fund: Proposal to Go All-In IOTA Infrastructure and Growth with Tangle DAO?",
+                "answers": [
+                    {
+                        "value": 1,
+                        "text": "Yes - i support this proposal",
+                        "additionalInfo": ""
+                    },
+                    {
+                        "value": 2,
+                        "text": "No - i do not support this proposal",
+                        "additionalInfo": ""
+                    }
+                ]
+            }
+        ]
+    },
+    "additionalInfo": "Read the full proposal here: [https://govern.iota.org/t/sgp-0012-iota-network-fund-proposal-to-go-all-in-iota-infrastructure-and-growth-with-tangle-dao-phase-2-poll/1794](https://govern.iota.org/t/sgp-0012-iota-network-fund-proposal-to-go-all-in-iota-infrastructure-and-growth-with-tangle-dao-phase-2-poll/1794)"
+}
